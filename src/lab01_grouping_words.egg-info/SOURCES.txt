@@ -1,0 +1,9 @@
+pyproject.toml
+src/lab01/__init__.py
+src/lab01/main.py
+src/lab01_grouping_words.egg-info/PKG-INFO
+src/lab01_grouping_words.egg-info/SOURCES.txt
+src/lab01_grouping_words.egg-info/dependency_links.txt
+src/lab01_grouping_words.egg-info/top_level.txt
+tests/test_basic.py
+tests/test_grouping.py
